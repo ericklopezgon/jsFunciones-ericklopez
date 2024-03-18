@@ -1,0 +1,47 @@
+#ele1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+
+}
+
+#ejercicio_4_1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#div1, #div2, #div3, #div4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#key {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+#colors {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+h3 {
+    text-align: center;
+}
+
+#create_div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 5px;
+}
